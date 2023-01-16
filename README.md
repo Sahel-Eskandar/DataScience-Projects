@@ -1,6 +1,6 @@
-<h3 align="center">A passionate Data Scientist in Canada</h3>
+<h3 align="center">A Passionate Data Scientist in Canada</h3>
 
-- 🔭 I’m currently working on **Adaptive Neuro Fuzzy Inference Systems**
+- 🔭 I’m currently working on **Word2Vec**
 
 - 🌱 I’m currently learning **Transformers**
 
