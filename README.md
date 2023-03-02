@@ -1,5 +1,7 @@
 <h3 align="center">A Passionate Data Scientist in Canada</h3>
 
+
+
 - :zap: I love math, programming, data science, and psychology books
 
 - 🔭 I’m currently working on **Word2Vec**
