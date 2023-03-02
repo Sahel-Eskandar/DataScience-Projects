@@ -1,5 +1,7 @@
 <h3 align="center">A Passionate Data Scientist in Canada</h3>
 
+- :zap: I love math, programming, data science, and psychology books
+
 - 🔭 I’m currently working on **Word2Vec**
 
 - 🌱 I’m currently learning **Transformers**
@@ -11,9 +13,8 @@
 - 💬 Ask me about **Timeseries Anomaly Detection**
 
 - 📫 How to reach me: 
-  - [Email] **eskandar.sahel@gmail.com**
+  - **eskandar.sahel@gmail.com**
   - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
 <h3 align="left">Connect with me:</h3>
