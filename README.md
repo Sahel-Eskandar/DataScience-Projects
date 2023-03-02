@@ -10,7 +10,11 @@
 
 - 💬 Ask me about **Timeseries Anomaly Detection**
 
-- 📫 How to reach me **eskandar.sahel@gmail.com**
+- 📫 How to reach me: 
+  - [Email] **eskandar.sahel@gmail.com**
+  - :bulb: [Medium articles](https://medium.com/@eskandar.sahel)
+  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/Sahel-Eskandar/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
